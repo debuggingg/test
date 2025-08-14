@@ -28,8 +28,8 @@ document.querySelectorAll('a[href^="#"]').forEach(anchor => {
 // Designer data (예시 데이터)
 const designers = [
     {
-        name: "지우쌤",
-        position: "Senior Stylist",
+        name: "지우 학생 ",
+        position: "Junior Stylist",
         image: "img/IMG_3789.png",
         description: "10년 이상의 경력을 가진 시니어 스타일리스트. 트렌디한 컬러와 스타일링 전문가.",
         social: {
